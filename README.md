@@ -22,9 +22,10 @@
 
 <h2 align="center">Lenguajes y herramientas</h2> 
 <p align="center">
-<img width="250px"  src="https://skillicons.dev/icons?i=html,css,vscode,linux&perline=10"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
-<br />
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">

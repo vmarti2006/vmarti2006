@@ -22,7 +22,7 @@
 
 <h2 align="center">Lenguajes y herramientas</h2> 
 <p align="center">
-<img width="250px"  src="https://skillicons.dev/icons?i=C#,html,css,vscode,linux&perline=10"  />
+<img width="250px"  src="https://skillicons.dev/icons?i=c#,html,css,vscode,linux&perline=10"  />
 </p>
 <br />
 

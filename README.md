@@ -15,11 +15,6 @@
 
 <br>
 
-<h2 align="center">Mis proyectos:</h3>
-
-
-<br>
-
 <h2 align="center">Lenguajes y herramientas</h2> 
 <p align="center">
   <a href="https://skillicons.dev">

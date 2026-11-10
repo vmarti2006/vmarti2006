@@ -1,7 +1,7 @@
 <!-- ===================== CABECERA ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e11d48&height=220&section=header&text=Hola%2C%20soy%20Victor&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudiante%20de%20programaci%C3%B3n%20%7C%20C%23%20%26%20POO&descSize=18&descAlignY=60" alt="Cabecera" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e11d48&height=220&section=header&text=Hola%2C%20soy%20Victor&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Estudiante%20de%20programaci%C3%B3n%20%7C%20C%23%20%26%20POO&descSize=18&descAlignY=60" />
 
 <a href="https://github.com/vmarti2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Estudiante+de+programaci%C3%B3n;Apasionado+de+C%23+y+la+POO;Siempre+aprendiendo+algo+nuevo" alt="Texto animado" />

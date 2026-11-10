@@ -71,6 +71,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=vmarti2006&label=Visitas&color=e11d48&style=flat" alt="Contador de visitas" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:0d1117&height=120&section=footer" alt="Pie" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8873be,100:0d1117&height=120&section=footer" alt="Pie" />
 
 </div>

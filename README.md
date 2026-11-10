@@ -54,8 +54,6 @@
 | [Programacio_Level1](https://github.com/vmarti2006/Programacio_Level1) | Ejercicios y prácticas de programación | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white) |
 | *Tu próximo proyecto* | Descripción breve | ![Tech](https://img.shields.io/badge/Tech-e11d48?style=flat) |
 
-> 💡 Cuando subas tus proyectos a GitHub, cambia los textos en cursiva por enlaces: `[Nombre](https://github.com/vmarti2006/nombre-repo)`
-
 ---
 
 <!-- ===================== CONTACTO ===================== -->
